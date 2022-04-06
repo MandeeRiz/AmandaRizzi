@@ -1,0 +1,87 @@
+* {
+    background-color:#a9ba9d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#para {
+    background-color:#AE9DBA;
+}
+form {
+    border-style:solid;
+    width:fit-content;
+    border-width:6px;
+    border-color:#748D63;
+    padding: 7px;
+    position:relative
+}
+input {
+    background-color: white;
+}
+#how {
+    border-style: double;
+    background-color:#B09DBA;
+}
+#howtitle{
+    text-align: center;
+}
+nav {
+    position:fixed;
+    top:15px;
+    left: 15%;
+    right:15%;
+    font-size:25px;
+    background:rgba(169, 186, 157, 0);
+}
+.topmargin {
+    margin-top: 50px;
+}
+#img {
+    float:right;
+    padding:0 0 20px 20px;
+    height: 15%;
+    width: 15%;
+}
+#check {
+    height: 25%;
+    width: 25%;
+    position: absolute;
+    right: 0;
+    top: 5%;   
+}
+
+iframe {
+    width:280;
+    height:157.5;
+    display:inline;
+}
+#Waldo {
+    display:none;
+    height: 1%;
+    width: 1%
+}
+ul {
+    list-style:circle;
+    display:inline block;
+    margin: 0px 0px 25px 50px;
+}
+.navbut {
+    border-style: solid;
+    border-radius: 50%;
+    padding:5px;
+    text-decoration: none;
+    color:#123524;
+    border-color: #123524;
+}
+.navbut:hover {
+    background-color:#799367;
+}
+h2 {
+    text-align: center;
+}
